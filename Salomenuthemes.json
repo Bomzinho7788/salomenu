@@ -1,1 +1,24 @@
-
+{
+  "name": "Dark Modern",
+  "id": "dark-modern",
+  "bgColor": "#0f0f0f",
+  "contentBg": "#1a1a1a",
+  "titlebarBg": "#121212",
+  "textColor": "#e0e0e0",
+  "accentColor": "#7c3aed",
+  "cardBg": "#1e1e1e",
+  "monaco": {
+    "bg": "#0f0f0f",
+    "foreground": "#e0e0e0",
+    "comment": "#6b7280",
+    "keyword": "#f472b6",
+    "string": "#34d399",
+    "number": "#fbbf24",
+    "operator": "#60a5fa",
+    "lineHighlight": "#1e1e1e",
+    "selectionBg": "#374151",
+    "inactiveSelection": "#1f2937",
+    "lineNumber": "#4b5563",
+    "cursor": "#60a5fa"
+  }
+}
