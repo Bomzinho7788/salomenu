@@ -1,24 +1,50 @@
-{
-  "name": "Dark Modern",
-  "id": "dark-modern",
-  "bgColor": "#0f0f0f",
-  "contentBg": "#1a1a1a",
-  "titlebarBg": "#121212",
-  "textColor": "#e0e0e0",
-  "accentColor": "#7c3aed",
-  "cardBg": "#1e1e1e",
-  "monaco": {
-    "bg": "#0f0f0f",
-    "foreground": "#e0e0e0",
-    "comment": "#6b7280",
-    "keyword": "#f472b6",
-    "string": "#34d399",
-    "number": "#fbbf24",
-    "operator": "#60a5fa",
-    "lineHighlight": "#1e1e1e",
-    "selectionBg": "#374151",
-    "inactiveSelection": "#1f2937",
-    "lineNumber": "#4b5563",
-    "cursor": "#60a5fa"
+[
+  {
+    "name": "Dark Modern",
+    "id": "dark-modern",
+    "bgColor": "#0f0f0f",
+    "contentBg": "#1a1a1a",
+    "titlebarBg": "#121212",
+    "textColor": "#e0e0e0",
+    "accentColor": "#7c3aed",
+    "cardBg": "#1e1e1e",
+    "monaco": {
+      "bg": "#0f0f0f",
+      "foreground": "#e0e0e0",
+      "comment": "#6b7280",
+      "keyword": "#f472b6",
+      "string": "#34d399",
+      "number": "#fbbf24",
+      "operator": "#60a5fa",
+      "lineHighlight": "#1e1e1e",
+      "selectionBg": "#374151",
+      "inactiveSelection": "#1f2937",
+      "lineNumber": "#4b5563",
+      "cursor": "#60a5fa"
+    }
+  },
+  {
+    "name": "Synthwave 84",
+    "id": "synthwave-84",
+    "bgColor": "#241b2f",
+    "contentBg": "#2d1b69",
+    "titlebarBg": "#1a103d",
+    "textColor": "#f8f8f2",
+    "accentColor": "#fe4450",
+    "cardBg": "#2a0f4d",
+    "monaco": {
+      "bg": "#241b2f",
+      "foreground": "#f8f8f2",
+      "comment": "#6d77b3",
+      "keyword": "#ff7edb",
+      "string": "#72f1b8",
+      "number": "#f97e72",
+      "operator": "#36c2d8",
+      "lineHighlight": "#2d1b69",
+      "selectionBg": "#3f3b4a",
+      "inactiveSelection": "#2f2b3a",
+      "lineNumber": "#6d77b3",
+      "cursor": "#36c2d8"
+    }
   }
-}
+]
